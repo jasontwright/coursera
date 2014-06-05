@@ -2,8 +2,7 @@
 
 Coursework and assorted resources from classes on [Coursera](http://coursera.org)
 
-##Programming for Everybody
+##[Programming for Everybody](https://class.coursera.org/pythonlearn-002)
 ###by Charles Severance
-https://class.coursera.org/pythonlearn-002
 
 ####Week 1
