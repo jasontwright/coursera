@@ -6,3 +6,9 @@ Coursework and assorted resources from classes on [Coursera](http://coursera.org
 ###by Charles Severance
 
 ####Week 1
+
+
+####Week 2
+
+
+####Week 3
