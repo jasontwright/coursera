@@ -6,10 +6,10 @@ while True :
 	inp = raw_input('Enter a number: ')
 	if inp == 'done' : break
 	if len(inp) < 1 : break #Check for empty line
-	
+
 	try :
 		num = float(inp)
-	except : 
+	except :
 		print 'Invalid input'
 		continue
 	count = count + 1

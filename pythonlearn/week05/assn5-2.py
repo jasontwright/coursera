@@ -16,7 +16,7 @@ while True:
     	largest = num
     elif num > largest :
     	largest = num
-    
+
     if smallest is None :
     	smallest = num
     elif num < smallest :
